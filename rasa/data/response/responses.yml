@@ -1,0 +1,5 @@
+version: "2.0"
+
+responses:
+  utter_name:
+  - text: "Hello, your name is: {name}!"
