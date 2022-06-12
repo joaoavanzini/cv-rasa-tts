@@ -2,3 +2,4 @@
 rasa/models/*
 rasa/results/*
 tts/audio.mp3
+computer-vision/datasets/*

@@ -11,7 +11,7 @@ headers["Content-Type"] = "application/json"
 
 data = {
     "sender": "joao_test",
-    "message": "/get_name{\"name\":\"test\"}"
+    "message": "/get_name{\"name\":\"Mariana\"}"
 }
 
 resp = requests.post(url, headers=headers, json=data)
